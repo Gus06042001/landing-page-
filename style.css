@@ -1,0 +1,128 @@
+
+#divMain{
+    display: grid;
+    grid-auto-flow: column;
+}
+#div1{
+    background-color: #FFD900;
+    padding: 2%;
+    margin: -1%;
+    padding-left:3% ;
+    width: 100%;
+
+}
+#titulo1{
+    font-size:60px;
+    color:#F3C61F ;
+    margin-bottom: 1%;
+}
+#titulo2{
+    font-size: 25px;
+    margin-bottom: 8%;
+}
+#div2{
+ 
+    margin: 3%;
+    margin-top:17px;
+    margin-bottom:0px;
+    margin-left:-8px;
+    padding-bottom: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    font-size: 25px;
+    text-align: center;
+    background-color: #514988;
+    color:#FFFFFF;
+    width: 700px;
+    height: 500px;
+}
+
+#titulo3{
+    font-size:28px;
+    color:#F3C61F ;
+    margin-bottom: 1%;
+    margin-left:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+}
+#div3{
+    font-size:30px;
+    margin-left: -45px;
+    margin-right: 350px;
+    margin-top: 50px;
+    margin-bottom: 0px;
+    font-family: Verdana;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#514988;
+    display: grid;
+    grid-auto-flow:column ;
+}
+
+
+.timer{
+   margin-left: 70%; 
+ 
+}
+.letra{
+    margin-left: 50px;
+}
+#D{
+    margin-left:70px ;
+}
+#textoVideo{
+    margin-bottom: -10px;
+    margin-top: -480px;
+    margin-left:700px;
+    font-family: Verdana;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#E33881;
+    
+}
+
+#loop{
+
+    margin-top: -50px;
+    margin-left:700px;
+    width: 680px;
+    height: 500px;
+    top: 284px;
+    left: 817px;
+    
+}
+
+#titulo3{
+    margin-top: 100px;
+}
+#div5-1{
+    width: 50px;
+    display: grid;
+    grid-auto-flow: column;
+
+}
+.card-ingresso:hover{
+    transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #05103081;
+    transition-duration: 0.5s;
+    cursor:pointer;
+}
+.card-highlight{
+    box-shadow: 0px 15px 20px #05103081;
+}
+#button{
+    Width:400px;
+    Height:148px;
+    margin-left: 100px;
+    border-Radius:20px;
+    font-size: 32px;
+    font-family: Verdana;
+    background-color: #514988;
+    border:none;
+    color:#FFFFFF;
+    cursor: pointer;
+}
+button:hover{   transform: translateY(-7px);
+    box-shadow: 0px 15px 20px #05103081;
+    transition-duration: 0.5s;
+    }
+
